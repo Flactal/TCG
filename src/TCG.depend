@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1517243673 source:f:\projects\tcg\src\tcg\card.cpp
+	"Card.hpp"
+
+1517244466 f:\projects\tcg\src\tcg\card.hpp
+	<string>
+	"CardTextArea.hpp"
+
+1517244275 f:\projects\tcg\src\tcg\cardtextarea.hpp
+	<string>
+
+1517244546 source:f:\projects\tcg\src\tcg\effecttext.cpp
+	"EffectText.hpp"
+
+1517196309 source:f:\projects\tcg\src\tcg\hs_card.cpp
+
+1517241505 source:f:\projects\tcg\src\tcg\main.cpp
+	<iostream>
+	"Card.hpp"
+
+1517241726 source:f:\projects\tcg\src\tcg\namedeffect.cpp
+	"NamedEffect.hpp"
+
+1517243874 source:f:\projects\tcg\src\tcg\cardtextarea.cpp
+	"CardTextArea.hpp"
+
+1517244702 source:f:\projects\tcg\src\tcg\effect.cpp
+	"Effect.hpp"
+
+1517244705 f:\projects\tcg\src\tcg\effect.hpp
+	<string>
+
+1517210561 f:\projects\tcg\src\tcg\namedeffect.hpp
+	<string>
+	"Effect.hpp"
+
+1517244275 f:\projects\tcg\src\tcg\effecttext.hpp
+	<list>
+	"CardTextArea.hpp"
+	"Effect.hpp"
+
